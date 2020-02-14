@@ -26,6 +26,7 @@
 
 The Colav REST API is one of [a variety of tools and APIs](https://colav.github.io/) that allow anybody to search and reuse our members' metadata in sophisticated ways.
 
+The data sctructure is defined  in [./api_format](./api_format.md)
 
 ## OLD Crossref documenation from here
 

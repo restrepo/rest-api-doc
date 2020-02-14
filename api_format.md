@@ -1,8 +1,10 @@
 # Colav Metadata API JSON Format
 It will be based in Lens (See also Inspire and CrossRef)
 
-## Goal
-As an example we use the data base of articles of UdeA:
+## Data UdeA
+As an example we use the data base of articles of UdeA. 
+For the while, we have the Following datasets:
+
 * From the combination of several databases
 
 https://github.com/restrepo/medicion/blob/master/cienciometr+ia/GS_format_UDEA.ipynb
@@ -11,7 +13,7 @@ https://github.com/restrepo/medicion/blob/master/cienciometr+ia/GS_format_UDEA.i
 
 https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-GoogleScholar.ipynb
 
-* Lens.or Data:
+* Lens.org Data:
 
 ** From the web page Download button to JSON:
 

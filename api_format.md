@@ -15,11 +15,11 @@ https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-Google
 
 * Lens.org Data:
 
-** From the web page Download button to JSON:
+  * From the web page Download button to JSON:
 
 https://github.com/restrepo/lens/blob/master/lens.ipynb
 
-** From the lens.org API (includes citations and citations_count):
+  * From the lens.org API (includes citations and citations_count):
 
 https://github.com/restrepo/lensapi/blob/master/lens.ipynb
 

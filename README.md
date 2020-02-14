@@ -24,8 +24,10 @@
 
 ## Preamble
 
-The Crossref REST API is one of [a variety of tools and APIs](https://www.crossref.org/services/metadata-delivery/) that allow anybody to search and reuse our members' metadata in sophisticated ways.
+The Colav REST API is one of [a variety of tools and APIs](https://colav.github.io/) that allow anybody to search and reuse our members' metadata in sophisticated ways.
 
+
+## OLD Crossref documenation from here
 
 ## Meta
 

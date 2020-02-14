@@ -12,6 +12,7 @@ https://github.com/restrepo/medicion/blob/master/cienciometr+ia/GS_format_UDEA.i
 https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-GoogleScholar.ipynb
 
 * Lens.or Data:
+
 ** From the web page Download button to JSON:
 
 https://github.com/restrepo/lens/blob/master/lens.ipynb

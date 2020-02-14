@@ -1,4 +1,26 @@
-# Crossref Metadata API JSON Format
+# Colav Metadata API JSON Format
+It will be based in Lens (See also Inspire and CrossRef)
+
+## Goal
+As an example we use the data base of articles of UdeA:
+* From the combination of several databases
+
+https://github.com/restrepo/medicion/blob/master/cienciometr+ia/GS_format_UDEA.ipynb
+
+* Combination Google Scholar-OADOI-DOAJ:
+
+https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-GoogleScholar.ipynb
+
+* Lens.or Data:
+** From the web page Download button to JSON:
+
+https://github.com/restrepo/lens/blob/master/lens.ipynb
+
+** From the lens.org API (includes citations and citations_count):
+
+https://github.com/restrepo/lensapi/blob/master/lens.ipynb
+
+## Crossref documentation from here
 
 ## Versioning
 

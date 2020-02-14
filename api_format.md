@@ -7,7 +7,7 @@ For the while, we have the Following datasets:
 
 * From the combination of several databases
 
-https://github.com/restrepo/medicion/blob/master/cienciometr+ia/GS_format_UDEA.ipynb
+https://github.com/restrepo/medicion/blob/master/cienciometria/GS_format_UDEA.ipynb
 
 * Combination Google Scholar-OADOI-DOAJ:
 

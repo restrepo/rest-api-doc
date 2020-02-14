@@ -1,5 +1,5 @@
 # Colav Metadata API JSON Format
-It will be based in Lens (See also Inspire and CrossRef)
+It will be based in Lens.org Format (See also Inspire and CrossRef)
 
 ## Data UdeA
 As an example we use several databases for the articles of [Universidad de Antioquia](http://inspirehep.net/search?cc=Institutions&m1=e&p1=Antioquia+U.&of=recjson). 

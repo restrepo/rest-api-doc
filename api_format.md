@@ -15,7 +15,7 @@ https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-Google
 
 * Lens.org Data:
 
-  * From the [web page](https://link.lens.org/FYjcbBtF7ee) Download button to JSON:
+  * From the [web page](https://link.lens.org/FYjcbBtF7ee) ([Only Journal articles](https://link.lens.org/4STWSK7FBbh)) Download button to JSON:
 
 https://github.com/restrepo/lens/blob/master/lens.ipynb
 

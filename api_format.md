@@ -9,15 +9,22 @@ For the while, we have the Following datasets:
 
 https://github.com/restrepo/medicion/blob/master/cienciometria/GS_format_UDEA.ipynb
 
+Download [Excel](https://drive.google.com/a/udea.edu.co/file/d/1osxrxR_yMC97zodVe8RsEZmk2XD2EBLA/view?usp=sharing)
+
 * Combination Google Scholar-OADOI-DOAJ:
 
 https://github.com/restrepo/medicion/blob/master/cienciometria/OpenAccess-GoogleScholar.ipynb
+
+Download [Excel](https://drive.google.com/a/udea.edu.co/file/d/1G5Rxy0sWHqdRxWPLLJf3KozFPyMLbIfo/view?usp=sharing)
+
 
 * Lens.org Data:
 
   * From the [web page](https://link.lens.org/FYjcbBtF7ee) ([Only Journal articles](https://link.lens.org/4STWSK7FBbh)) Download button to JSON:
 
 https://github.com/restrepo/lens/blob/master/lens.ipynb
+
+Donwload [CSV](https://github.com/restrepo/lens/raw/master/data/udea.csv)
 
   * From the lens.org API (includes citations and citations_count):
 

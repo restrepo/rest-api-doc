@@ -28,6 +28,8 @@ The Colav REST API is one of [a variety of tools and APIs](https://colav.github.
 
 The data sctructure is defined  in [./api_format](./api_format.md)
 
+The repository would be implemented with an [OAI-PMH](https://www.openarchives.org/pmh/) feed
+
 ## OLD Crossref documenation from here
 
 ## Meta

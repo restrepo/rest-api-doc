@@ -31,8 +31,7 @@ Donwload [CSV](https://github.com/restrepo/lens/raw/master/data/udea.csv)
 https://github.com/restrepo/lensapi/blob/master/lens.ipynb
 
 ## Our model data will be based on lens
-Update metadatos from lens [here](./lens_web.ipynb)
-Update citations from lens [here](./lens_api.ipynb)
+See [here](./code/lens.ipynb)
 
 ## Crossref documentation from here
 
